@@ -1,0 +1,11 @@
+.AntonymResults {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    background-color: rgb(253, 132, 132);
+    padding: 2px;
+    border: 2px solid red;
+    margin-bottom: 10px;
+    height: fit-content;
+}

@@ -1,0 +1,9 @@
+.Synonym {
+    display: flex;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.Synonym:hover {
+    font-weight: bold;
+}

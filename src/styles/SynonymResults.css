@@ -1,0 +1,11 @@
+.SynonymResults {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    background-color: rgb(148, 148, 255);
+    padding: 2px;
+    border: 2px solid blue;
+    margin-bottom: 10px;
+    height: fit-content;
+}

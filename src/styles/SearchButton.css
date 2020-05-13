@@ -1,0 +1,14 @@
+.SearchButton {
+    display: flex;
+    border: 1px solid black;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.SearchButton:hover {
+    background-color: rgb(199, 199, 199);
+}
+
+.SearchButton:active {
+    font-weight: bold;
+}

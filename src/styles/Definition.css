@@ -1,0 +1,8 @@
+.Definition {
+    display: flex;
+    margin: 5px;
+    width: 33%;
+    border: 1px solid black;
+    padding: 3px;
+    justify-content: center;
+}

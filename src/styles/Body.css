@@ -1,0 +1,14 @@
+.Body {
+    display: flex;
+    flex-direction: column;
+}
+
+.DefinitionsBlock {
+    display: flex;
+}
+
+.SynonymsAntonyms {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,9 @@
+.Antonym {
+    display: flex;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.Antonym:hover {
+    font-weight: bold;
+}
